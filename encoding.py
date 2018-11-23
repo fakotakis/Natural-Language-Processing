@@ -1,6 +1,6 @@
 import numpy as np
 
-
+#Word-level one-hot encoding
 
 samples = ['The cat sat on the mat.', 'The dog ate my homework.']
 token_index = {}
