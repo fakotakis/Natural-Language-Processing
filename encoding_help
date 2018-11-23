@@ -1,0 +1,3 @@
+Associates a unique integer index with every word and then turning this integer index i 
+into a binary vector of size N (the size of the vocabulary); the vector is all zeros except for the ith entry, 
+which is 1.
