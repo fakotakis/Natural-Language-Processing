@@ -1,6 +1,7 @@
-# Natural-Language-Processing
-Methods for feature engineering
+# Natural-Language Processing
 
+
+Methods for feature engineering
 
 Deep Learning is Pattern Recognition applied to words, sentences and paragraphs.
 
